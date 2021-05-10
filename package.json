@@ -10,7 +10,7 @@
     "light",
     "gnome"
   ],
-  "repository": "https://github.com/Pagruli-Software-Research-Center/adwaita-modern-light-ui",
+  "repository": "https://github.com/pagruli-software-research-center/adwaita-modern-light-ui",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
