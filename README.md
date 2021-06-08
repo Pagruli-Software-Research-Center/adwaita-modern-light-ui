@@ -10,4 +10,4 @@ Happy theming! 🚀
 
 # Screenshot
 
-![A screenshot of your theme](assets/images/adwaita-modern-ui-screenshoot.png)
+![A screenshot of your theme](assets/images/adwaita-modern-ui-light-screenshoot.jpg)
