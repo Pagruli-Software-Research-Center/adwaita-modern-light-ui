@@ -1,7 +1,7 @@
 {
   "name": "adwaita-modern-light-ui",
   "theme": "ui",
-  "version": "0.2.2",
+  "version": "0.2.1",
   "description": "A light ui theme inspired by the adwaita theme from Gnome 3.8+",
   "keywords": [
     "ui",
