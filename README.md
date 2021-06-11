@@ -10,4 +10,4 @@ Happy theming! 🚀
 
 # Screenshot
 
-![A screenshot of your theme](assets/images/adwaita-modern-ui-light-screenshot.jpg)
+![A screenshot of your theme](https://raw.githubusercontent.com/Pagruli-Software-Research-Center/adwaita-modern-light-ui/master/assets/images/adwaita-modern-ui-light-screenshot.jpg)
